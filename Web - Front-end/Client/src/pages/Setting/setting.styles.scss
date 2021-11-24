@@ -1,0 +1,15 @@
+.setting-input input {
+  width: 260px;
+}
+
+.setting-title {
+  display: flex;
+  align-items: flex-start;
+  h4 {
+    margin-top: 0.25rem;
+  }
+  span {
+    margin-right: 1rem;
+    font-size: 36px;
+  }
+}
